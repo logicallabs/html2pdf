@@ -1,3 +1,20 @@
+build/*
+build
+build.log
+*.class
+*.pyc
+*.pyo
+tmp
+.DS_Store
+.svn
+.svnignore
+Instruments.trace/*
+ios/yuidoc/*
+android/yuidoc/*
+*.jar
+*.so
+*.zip
+*.xccheckout
 html2pdf.xcodeproj/project.xcworkspace/xcuserdata/zpapp.xcuserdatad/UserInterfaceState.xcuserstate
 html2pdf.xcodeproj/project.xcworkspace/xcuserdata/zpapp.xcuserdatad/WorkspaceSettings.xcsettings
 html2pdf.xcodeproj/xcuserdata/zpapp.xcuserdatad/xcschemes/Build & Test.xcscheme
